@@ -6,14 +6,6 @@ Dual citizen USA / Sweden
 Phone: 46 70-234-4921  
 Email: bradneal.gp@gmail.com
 
-AAA Game Contributions: [https://www.mobygames.com/person/672830/brad-neal/credits/]
-
-GitHub: [https://github.com/danglenzig/danglenzig]  
-
-LinkedIn: [https://www.linkedin.com/in/brad-neal-421473138/]
-
-Itch.io: [https://americanwerewolf.itch.io/]
-
 ## Profile
 
 Technically versatile developer with 25+ years of experience across network engineering, game development, and systems work. Strong background in debugging complex systems, building reliable infrastructure, and communicating clearly under pressure. Currently studying game programming at Forsbergs while independently upskilling in Python, AI engineering, agents, RAG, and MCP to broaden employability across games, tools, backend, and AI-adjacent roles.
@@ -89,6 +81,12 @@ March 2013 – June 2022
 
 - Worked in network engineering and architecture roles across enterprise, telecom, finance, government, and military environments.
 - Supported infrastructure reliability, communications systems, and operational continuity.
+
+## Links
+- AAA Game Contributions: [https://www.mobygames.com/person/672830/brad-neal/credits/]
+- GitHub: [https://github.com/danglenzig/danglenzig]
+- LinkedIn: [https://www.linkedin.com/in/brad-neal-421473138/]
+- Itch.io: [https://americanwerewolf.itch.io/]
 
 ## Projects
 
