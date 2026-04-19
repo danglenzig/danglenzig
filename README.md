@@ -4,8 +4,8 @@
 Simrishamn, Skåne, Sweden  
 Dual citizen USA / Sweden  
 Phone: 46 70-234-4921  
-Email: bradneal.gp@gmail.com  
-AAA Game Contributions: [https://www.mobygames.com/person/672830/brad-neal/credits/]
+Email: bradneal.gp@gmail.com
+AAA Game Contributions: [https://www.mobygames.com/person/672830/brad-neal/credits/] 
 GitHub: [https://github.com/danglenzig/danglenzig]  
 LinkedIn: [https://www.linkedin.com/in/brad-neal-421473138/]
 Itch.io: [https://americanwerewolf.itch.io/]
