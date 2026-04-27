@@ -24,7 +24,7 @@ Technically versatile developer with 25+ years of experience across network engi
 
 **Languages:** C, C++, Lua, Python, GDScript, .NET  
 **Game / Creative Tech:** Godot, Unity, Unreal, Roblox, Raylib  
-**AI / Backend / Dev Tools:** Git, GitHub, Docker, FastAPI, Pydantic, LangChain, LangGraph, MCP, Ollama, Hugging Face, Redis, Neo4j  
+**AI / Backend / Dev Tools:** Git, GitHub, Docker, FastAPI, Pydantic, LangChain, LangGraph, Qdrant, Neo4j, OpenAI AgentsSDK
 **Concepts:** Algorithms, data structures, OOP, network programming, load balancing, distributed systems, prompt engineering, RAG, memory systems, multi-modal AI
 
 ## Education
@@ -46,7 +46,7 @@ Digital Communication Systems
 
 **Full-Stack Agentic and Generative AI Development With Python*
 
-Hands-on study in Python, Git, Docker, Pydantic, LLMs, prompt engineering, agents, RAG, LangChain, LangGraph, multi-modal AI, FastAPI, and MCP. Focused on building practical AI systems and applying these skills to future software, tools, and game-related projects.
+Hands-on study in Python, Git, Docker, Pydantic, LLMs, prompt engineering, agents, RAG, LangChain, LangGraph, multi-modal AI, FastAPI, MCP, and OpenAI AgentsSDK. Focused on building practical AI systems and applying these skills to future software, tools, and game-related projects.
 
 ## Experience
 
