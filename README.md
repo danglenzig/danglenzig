@@ -1,6 +1,6 @@
 # Brad Neal
 
-**Technical Generalist | Game Developer | Backend / AI-Adjacent Engineer**  
+**Game Developer | Tech Design | Agentic AI**  
 Simrishamn, Skåne, Sweden  
 Dual citizen USA / Sweden  
 Phone: 46 70-234-4921  
@@ -73,14 +73,19 @@ March 2013 – June 2022
 
 - Designed and delivered an intercontinental fiber optic network connecting EA data centers.
 - Developed application load-balancing solutions and supported network security operations.
-- Contributed to disaster preparedness, DDoS mitigation, and launch readiness for major EA titles and studios.
+- Contributed to disaster preparedness, DDoS mitigation, 3rd-party ntegration and launch readiness for major EA titles and studios including:
+  - EA Sports -- FIFA 18, FIFA 17
+  - DICE -- Battlefield 2042, Battlefield V, Mirror's Edge Catalyst, Star Wars Battlefront II, Star Wars Battlefront
+  - Bioware -- Mass Effect: Andromeda, Dragon Age Inquisition, Star Wars: The Old Republic
+
 
 **Various Organizations, USA**  
 **Network Engineer**  
 1995 – 2013
 
-- Worked in network engineering and architecture roles across enterprise, telecom, finance, government, and military environments.
+- Worked in network engineering and architecture roles across enterprise, telecom, finance, government, and military environments.  
 - Supported infrastructure reliability, communications systems, and operational continuity.
+- Organizations: The State of Texas, Charles Schwab, Level 3 Communications, Cisco Systems, US Air Force Space Command
 
 ## Links
 - AAA Game Contributions: [https://www.mobygames.com/person/672830/brad-neal/credits/]
@@ -90,16 +95,16 @@ March 2013 – June 2022
 
 ## Projects
 
-**Graduation Project Direction**  
-**Agentic Visual Novel System**
+**Forsbergs Skola Graduation Project**  
+**(KARLA: An Agentic Visual Novel System)[https://github.com/danglenzig/KARLA_PROD]**
 
-Planned project combining game development with practical AI integration. Intended focus areas include interactive narrative systems, agent behavior, and production-minded AI workflows.
+Combining game development with practical AI integration. Intended focus areas include interactive narrative systems, agent orchestration, and production-minded AI workflows.
 
 ## Work Preferences
 
 - Open to full-time, contract, and freelance work.
 - Open to game industry, software, backend, tools, and AI-adjacent roles.
-- Onsite, hybrid, or remote in Southern Sweden, remote work elsewhere.
+- Onsite, hybrid, or remote in Sweden, remote work elsewhere.
 
 ## Additional Information
 
