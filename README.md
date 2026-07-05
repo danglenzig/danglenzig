@@ -1,7 +1,7 @@
 # Brad Neal
 
 **Game Developer | Tech Design | Agentic AI**  
-Simrishamn, Skåne, Sweden  
+Stockholm, Sweden  
 Dual citizen USA / Sweden  
 Phone: 46 70-234-4921  
 Email: bradneal.gp@gmail.com
